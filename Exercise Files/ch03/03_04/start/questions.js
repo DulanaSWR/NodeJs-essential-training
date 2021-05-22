@@ -1,2 +1,3 @@
-process.sdtout.write("Hello ");
-process.sdtout.write("\n world");
+process.stdout.write("Hello ");
+process.stdout.write("\n world");
+
